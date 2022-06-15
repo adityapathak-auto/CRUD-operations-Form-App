@@ -1,0 +1,38 @@
+.form-div{
+    width: 50%;
+    margin: 50px auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+    /* background-color: rgb(212, 203, 203); */
+    box-shadow: 255;
+    padding: 20px 24px;
+
+}
+/* p{
+    color: red;
+    text-align: left;
+    margin: 1px 80px;
+
+} */
+/* input{
+    width: 80%;
+    height: 50px;
+    padding: 10px 20px;
+    margin: 20px 0;
+} */
+
+ /* .form-div button{
+    width: 40%;
+    border:none;
+    padding: 20px 24px;
+    color: rgb(43, 40, 40);
+    background-color: rgb(174, 170, 216);
+    cursor: pointer;
+    font-size: 22px;
+    font-style: italic;
+    margin: 20px 0;
+} */
+/* button:hover{
+    background-color: rgb(86, 145, 132);
+    color: wheat;
+} */

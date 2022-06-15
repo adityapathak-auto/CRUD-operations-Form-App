@@ -6,6 +6,24 @@
   height: 40vmin;
   pointer-events: none;
 }
+.home{
+  margin: 20px 0;
+}
+/* .link{
+  margin: 0 50px;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  font-size: larger;
+  
+} */
+/* .link:hover{
+  color: blue;
+  font-size: 25px;
+} */
+/* .home Link{
+  margin: 0 50px;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
